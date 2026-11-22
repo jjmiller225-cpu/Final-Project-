@@ -1,0 +1,7 @@
+# Local Tableau and spreadsheet temporary files
+~$*
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+*.log
